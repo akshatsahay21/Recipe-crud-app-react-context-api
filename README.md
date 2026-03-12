@@ -8,9 +8,6 @@ A full-featured recipe management web app built with React. Create, browse, edit
 
 🔗 [View Live on Vercel](https://recipe-crud-app-react-context-api.vercel.app/)
 
----
-
-![Home Page](https://images.unsplash.com/photo-1495521821757-a1efb6729352?w=900&q=80)
 
 ---
 
