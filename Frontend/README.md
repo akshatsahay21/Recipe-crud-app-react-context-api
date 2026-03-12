@@ -6,7 +6,7 @@ A full-featured recipe management web app built with React. Create, browse, edit
 
 ## 🌐 Live Demo
 
-🔗 [View Live on Vercel](https://your-project.vercel.app)
+🔗 [View Live on Vercel](https://recipe-crud-app-react-context-api.vercel.app/)
 
 ---
 
@@ -80,10 +80,12 @@ src/
 ### Installation
 
 ```bash
+
 # Clone the repository
-git clone https://github.com/YOUR_USERNAME/recipe-crud-app-react-context-api.git
+git clone https://github.com/akshatsahay21/recipe-crud-app-react-context-api.git
 
 # Navigate into the project
+cd Frontend
 cd recipe-crud-app-react-context-api
 
 # Install dependencies
